@@ -28,7 +28,7 @@ Dual License support
 -   MIT http://www.opensource.org/licenses/mit-license.php
 -   GPL http://www.opensource.org/licenses/gpl-license.php
 
-User can pick whichever one applies best for their project and doesn’t not have to contact me.
+User can pick whichever one applies best for their project and doesnâ€™t not have to contact me.
 
 
 Contributions
@@ -94,7 +94,7 @@ Once deployed, browse to the deployment location on the SharePoint site and clic
 
 ## Unit Tests
 
-Unit test cases are written under the `test` folder using Jasnime.  Test should be able to run without a real SharePoint Server by taking advantage of fakeServer. To run the test case locally run the following:
+Unit test cases are written under the `test` folder using Jasmine.  Test should be able to run without a real SharePoint Server by taking advantage of fakeServer. To run the test case locally run the following:
 
     npm run server
 
